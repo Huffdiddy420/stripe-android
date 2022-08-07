@@ -1,0 +1,2 @@
+https://stripe.com/docs/development/quickstart# For detailed setup, see our quickstarts at https://stripe.com/docs/development/quickstart
+dotnet add package Stripe.net
